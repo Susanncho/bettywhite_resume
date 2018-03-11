@@ -1,0 +1,90 @@
+html {
+	background: rgb(68, 68, 68);
+	margin: 30px;
+	border: 5px solid darkgrey;
+}
+body{
+	padding: 40px;
+}
+h1 {
+	font-size: 36px;
+	color: white;
+	text-align: center;
+	font-family: Georgia;
+	font-style: italic;
+	font-weight: lighter;
+}
+.Top-nav .CurrentPage {
+	color:white;
+	text-decoration: none;
+}
+.Top-nav {
+	font-family: helvetica;
+	color: lightgrey;
+	text-align: center;
+	margin: 30px 0 30px 0;
+}
+.Resume {
+	font-family: helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	text-align: left;
+	margin: 30px 0 30px 0;
+}
+p {
+	display: block;
+	color: white;
+	font-size: 19px;
+	line-height: 28px;
+}
+.ListTitle {
+	font-family: helvetica;
+	font-style: normal;
+	font-size: 18px;
+	text-align: left;
+	font-weight: bolder;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: lightgrey;
+	margin: 50px 0 20px 0;
+}
+.title {
+	font-family: helvetica;
+	color: white;
+	font-weight: bold;
+}
+.secondarytitle {
+	font-family: helvetica;
+	color: white;
+}
+.year {
+	font-family: helvetica;
+	font-size:16px;
+}
+ul {
+	margin: 20px 0 40px 0;
+}
+ul li {
+	list-style-type: square;
+}
+li {
+	color: lightgrey;
+	font-size: 19px;
+	line-height: 28px;
+	margin: 0 0 30px 0;
+}
+.educationlist {
+	margin: 0;
+}
+nav {
+	font-family: helvetica;
+	color: lightgrey;
+	text-align: center;
+	margin: 30px 0 0 0;
+}
+a {
+	color: #00d59d;
+	font-weight: bold;
+	font-size: 18px;
+}
